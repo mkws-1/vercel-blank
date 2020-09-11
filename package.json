@@ -1,0 +1,6 @@
+{
+  "license": "ISC",
+  "scripts": {
+    "build": "bin/mkws \$VERCEL_URL"
+  }
+}
